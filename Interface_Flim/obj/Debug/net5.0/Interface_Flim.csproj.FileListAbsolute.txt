@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Interface_Flim\bin\Debug\net5.0\Interface_Flim.exe
+C:\Users\PC\source\repos\Interface_Flim\bin\Debug\net5.0\Interface_Flim.deps.json
+C:\Users\PC\source\repos\Interface_Flim\bin\Debug\net5.0\Interface_Flim.runtimeconfig.json
+C:\Users\PC\source\repos\Interface_Flim\bin\Debug\net5.0\Interface_Flim.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Interface_Flim\bin\Debug\net5.0\Interface_Flim.dll
+C:\Users\PC\source\repos\Interface_Flim\bin\Debug\net5.0\ref\Interface_Flim.dll
+C:\Users\PC\source\repos\Interface_Flim\bin\Debug\net5.0\Interface_Flim.pdb
+C:\Users\PC\source\repos\Interface_Flim\obj\Debug\net5.0\Interface_Flim.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Interface_Flim\obj\Debug\net5.0\Interface_Flim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Interface_Flim\obj\Debug\net5.0\Interface_Flim.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Interface_Flim\obj\Debug\net5.0\Interface_Flim.AssemblyInfo.cs
+C:\Users\PC\source\repos\Interface_Flim\obj\Debug\net5.0\Interface_Flim.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Interface_Flim\obj\Debug\net5.0\Interface_Flim.dll
+C:\Users\PC\source\repos\Interface_Flim\obj\Debug\net5.0\ref\Interface_Flim.dll
+C:\Users\PC\source\repos\Interface_Flim\obj\Debug\net5.0\Interface_Flim.pdb
+C:\Users\PC\source\repos\Interface_Flim\obj\Debug\net5.0\Interface_Flim.genruntimeconfig.cache
