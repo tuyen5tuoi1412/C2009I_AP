@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Interface_Ex\bin\Debug\net5.0\Interface_Ex.exe
+C:\Users\PC\source\repos\Interface_Ex\bin\Debug\net5.0\Interface_Ex.deps.json
+C:\Users\PC\source\repos\Interface_Ex\bin\Debug\net5.0\Interface_Ex.runtimeconfig.json
+C:\Users\PC\source\repos\Interface_Ex\bin\Debug\net5.0\Interface_Ex.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Interface_Ex\bin\Debug\net5.0\Interface_Ex.dll
+C:\Users\PC\source\repos\Interface_Ex\bin\Debug\net5.0\ref\Interface_Ex.dll
+C:\Users\PC\source\repos\Interface_Ex\bin\Debug\net5.0\Interface_Ex.pdb
+C:\Users\PC\source\repos\Interface_Ex\obj\Debug\net5.0\Interface_Ex.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Interface_Ex\obj\Debug\net5.0\Interface_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Interface_Ex\obj\Debug\net5.0\Interface_Ex.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Interface_Ex\obj\Debug\net5.0\Interface_Ex.AssemblyInfo.cs
+C:\Users\PC\source\repos\Interface_Ex\obj\Debug\net5.0\Interface_Ex.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Interface_Ex\obj\Debug\net5.0\Interface_Ex.dll
+C:\Users\PC\source\repos\Interface_Ex\obj\Debug\net5.0\ref\Interface_Ex.dll
+C:\Users\PC\source\repos\Interface_Ex\obj\Debug\net5.0\Interface_Ex.pdb
+C:\Users\PC\source\repos\Interface_Ex\obj\Debug\net5.0\Interface_Ex.genruntimeconfig.cache

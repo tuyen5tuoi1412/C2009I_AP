@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\C2009i_product\obj\Debug\net5.0\C2009i_product.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C2009i_product\obj\Debug\net5.0\C2009i_product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C2009i_product\obj\Debug\net5.0\C2009i_product.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C2009i_product\obj\Debug\net5.0\C2009i_product.AssemblyInfo.cs
+C:\Users\PC\source\repos\C2009i_product\obj\Debug\net5.0\C2009i_product.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C2009i_product\bin\Debug\net5.0\C2009i_product.exe
+C:\Users\PC\source\repos\C2009i_product\bin\Debug\net5.0\C2009i_product.deps.json
+C:\Users\PC\source\repos\C2009i_product\bin\Debug\net5.0\C2009i_product.runtimeconfig.json
+C:\Users\PC\source\repos\C2009i_product\bin\Debug\net5.0\C2009i_product.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C2009i_product\bin\Debug\net5.0\C2009i_product.dll
+C:\Users\PC\source\repos\C2009i_product\bin\Debug\net5.0\ref\C2009i_product.dll
+C:\Users\PC\source\repos\C2009i_product\bin\Debug\net5.0\C2009i_product.pdb
+C:\Users\PC\source\repos\C2009i_product\obj\Debug\net5.0\C2009i_product.dll
+C:\Users\PC\source\repos\C2009i_product\obj\Debug\net5.0\ref\C2009i_product.dll
+C:\Users\PC\source\repos\C2009i_product\obj\Debug\net5.0\C2009i_product.pdb
+C:\Users\PC\source\repos\C2009i_product\obj\Debug\net5.0\C2009i_product.genruntimeconfig.cache

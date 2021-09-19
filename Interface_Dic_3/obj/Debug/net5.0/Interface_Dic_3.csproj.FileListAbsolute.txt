@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Interface_Dic_3\bin\Debug\net5.0\Interface_Dic_3.exe
+C:\Users\PC\source\repos\Interface_Dic_3\bin\Debug\net5.0\Interface_Dic_3.deps.json
+C:\Users\PC\source\repos\Interface_Dic_3\bin\Debug\net5.0\Interface_Dic_3.runtimeconfig.json
+C:\Users\PC\source\repos\Interface_Dic_3\bin\Debug\net5.0\Interface_Dic_3.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Interface_Dic_3\bin\Debug\net5.0\Interface_Dic_3.dll
+C:\Users\PC\source\repos\Interface_Dic_3\bin\Debug\net5.0\ref\Interface_Dic_3.dll
+C:\Users\PC\source\repos\Interface_Dic_3\bin\Debug\net5.0\Interface_Dic_3.pdb
+C:\Users\PC\source\repos\Interface_Dic_3\obj\Debug\net5.0\Interface_Dic_3.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Interface_Dic_3\obj\Debug\net5.0\Interface_Dic_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Interface_Dic_3\obj\Debug\net5.0\Interface_Dic_3.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Interface_Dic_3\obj\Debug\net5.0\Interface_Dic_3.AssemblyInfo.cs
+C:\Users\PC\source\repos\Interface_Dic_3\obj\Debug\net5.0\Interface_Dic_3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Interface_Dic_3\obj\Debug\net5.0\Interface_Dic_3.dll
+C:\Users\PC\source\repos\Interface_Dic_3\obj\Debug\net5.0\ref\Interface_Dic_3.dll
+C:\Users\PC\source\repos\Interface_Dic_3\obj\Debug\net5.0\Interface_Dic_3.pdb
+C:\Users\PC\source\repos\Interface_Dic_3\obj\Debug\net5.0\Interface_Dic_3.genruntimeconfig.cache

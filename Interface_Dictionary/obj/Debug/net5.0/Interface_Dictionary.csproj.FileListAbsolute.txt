@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Interface_Dictionary\bin\Debug\net5.0\Interface_Dictionary.exe
+C:\Users\PC\source\repos\Interface_Dictionary\bin\Debug\net5.0\Interface_Dictionary.deps.json
+C:\Users\PC\source\repos\Interface_Dictionary\bin\Debug\net5.0\Interface_Dictionary.runtimeconfig.json
+C:\Users\PC\source\repos\Interface_Dictionary\bin\Debug\net5.0\Interface_Dictionary.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Interface_Dictionary\bin\Debug\net5.0\Interface_Dictionary.dll
+C:\Users\PC\source\repos\Interface_Dictionary\bin\Debug\net5.0\ref\Interface_Dictionary.dll
+C:\Users\PC\source\repos\Interface_Dictionary\bin\Debug\net5.0\Interface_Dictionary.pdb
+C:\Users\PC\source\repos\Interface_Dictionary\obj\Debug\net5.0\Interface_Dictionary.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Interface_Dictionary\obj\Debug\net5.0\Interface_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Interface_Dictionary\obj\Debug\net5.0\Interface_Dictionary.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Interface_Dictionary\obj\Debug\net5.0\Interface_Dictionary.AssemblyInfo.cs
+C:\Users\PC\source\repos\Interface_Dictionary\obj\Debug\net5.0\Interface_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Interface_Dictionary\obj\Debug\net5.0\Interface_Dictionary.dll
+C:\Users\PC\source\repos\Interface_Dictionary\obj\Debug\net5.0\ref\Interface_Dictionary.dll
+C:\Users\PC\source\repos\Interface_Dictionary\obj\Debug\net5.0\Interface_Dictionary.pdb
+C:\Users\PC\source\repos\Interface_Dictionary\obj\Debug\net5.0\Interface_Dictionary.genruntimeconfig.cache
