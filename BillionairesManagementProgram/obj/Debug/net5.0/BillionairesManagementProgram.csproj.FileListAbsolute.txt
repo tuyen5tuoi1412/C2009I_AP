@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\BillionairesManagementProgram\bin\Debug\net5.0\BillionairesManagementProgram.exe
+C:\Users\PC\source\repos\BillionairesManagementProgram\bin\Debug\net5.0\BillionairesManagementProgram.deps.json
+C:\Users\PC\source\repos\BillionairesManagementProgram\bin\Debug\net5.0\BillionairesManagementProgram.runtimeconfig.json
+C:\Users\PC\source\repos\BillionairesManagementProgram\bin\Debug\net5.0\BillionairesManagementProgram.runtimeconfig.dev.json
+C:\Users\PC\source\repos\BillionairesManagementProgram\bin\Debug\net5.0\BillionairesManagementProgram.dll
+C:\Users\PC\source\repos\BillionairesManagementProgram\bin\Debug\net5.0\ref\BillionairesManagementProgram.dll
+C:\Users\PC\source\repos\BillionairesManagementProgram\bin\Debug\net5.0\BillionairesManagementProgram.pdb
+C:\Users\PC\source\repos\BillionairesManagementProgram\obj\Debug\net5.0\BillionairesManagementProgram.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BillionairesManagementProgram\obj\Debug\net5.0\BillionairesManagementProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BillionairesManagementProgram\obj\Debug\net5.0\BillionairesManagementProgram.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BillionairesManagementProgram\obj\Debug\net5.0\BillionairesManagementProgram.AssemblyInfo.cs
+C:\Users\PC\source\repos\BillionairesManagementProgram\obj\Debug\net5.0\BillionairesManagementProgram.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BillionairesManagementProgram\obj\Debug\net5.0\BillionairesManagementProgram.dll
+C:\Users\PC\source\repos\BillionairesManagementProgram\obj\Debug\net5.0\ref\BillionairesManagementProgram.dll
+C:\Users\PC\source\repos\BillionairesManagementProgram\obj\Debug\net5.0\BillionairesManagementProgram.pdb
+C:\Users\PC\source\repos\BillionairesManagementProgram\obj\Debug\net5.0\BillionairesManagementProgram.genruntimeconfig.cache
