@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Aptech\bin\Debug\net5.0\Aptech.exe
+C:\Users\PC\source\repos\Aptech\bin\Debug\net5.0\Aptech.deps.json
+C:\Users\PC\source\repos\Aptech\bin\Debug\net5.0\Aptech.runtimeconfig.json
+C:\Users\PC\source\repos\Aptech\bin\Debug\net5.0\Aptech.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Aptech\bin\Debug\net5.0\Aptech.dll
+C:\Users\PC\source\repos\Aptech\bin\Debug\net5.0\ref\Aptech.dll
+C:\Users\PC\source\repos\Aptech\bin\Debug\net5.0\Aptech.pdb
+C:\Users\PC\source\repos\Aptech\obj\Debug\net5.0\Aptech.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Aptech\obj\Debug\net5.0\Aptech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Aptech\obj\Debug\net5.0\Aptech.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Aptech\obj\Debug\net5.0\Aptech.AssemblyInfo.cs
+C:\Users\PC\source\repos\Aptech\obj\Debug\net5.0\Aptech.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Aptech\obj\Debug\net5.0\Aptech.dll
+C:\Users\PC\source\repos\Aptech\obj\Debug\net5.0\ref\Aptech.dll
+C:\Users\PC\source\repos\Aptech\obj\Debug\net5.0\Aptech.pdb
+C:\Users\PC\source\repos\Aptech\obj\Debug\net5.0\Aptech.genruntimeconfig.cache
