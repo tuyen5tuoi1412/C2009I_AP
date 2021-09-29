@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\bin\Debug\net6.0\BookApp_Csharp3.exe
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\bin\Debug\net6.0\BookApp_Csharp3.deps.json
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\bin\Debug\net6.0\BookApp_Csharp3.runtimeconfig.json
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\bin\Debug\net6.0\BookApp_Csharp3.dll
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\bin\Debug\net6.0\ref\BookApp_Csharp3.dll
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\bin\Debug\net6.0\BookApp_Csharp3.pdb
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\obj\Debug\net6.0\BookApp_Csharp3.GlobalUsings.g.cs
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\obj\Debug\net6.0\BookApp_Csharp3.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\obj\Debug\net6.0\BookApp_Csharp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\obj\Debug\net6.0\BookApp_Csharp3.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\obj\Debug\net6.0\BookApp_Csharp3.AssemblyInfo.cs
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\obj\Debug\net6.0\BookApp_Csharp3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\obj\Debug\net6.0\BookApp_Csharp3.dll
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\obj\Debug\net6.0\ref\BookApp_Csharp3.dll
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\obj\Debug\net6.0\BookApp_Csharp3.pdb
+C:\Users\PC\source\repos\BookApp_Csharp3\BookApp_Csharp3\obj\Debug\net6.0\BookApp_Csharp3.genruntimeconfig.cache

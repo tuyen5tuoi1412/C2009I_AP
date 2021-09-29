@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bcca0188-6ec8-478e-8949-7c6429a50b05": {
+      "ProjectGuid": "bcca0188-6ec8-478e-8949-7c6429a50b05",
+      "DisplayName": "BookApp_Csharp3",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

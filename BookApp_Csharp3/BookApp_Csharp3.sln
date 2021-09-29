@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookApp_Csharp3", "BookApp_Csharp3\BookApp_Csharp3.csproj", "{BCCA0188-6EC8-478E-8949-7C6429A50B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCCA0188-6EC8-478E-8949-7C6429A50B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCA0188-6EC8-478E-8949-7C6429A50B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCA0188-6EC8-478E-8949-7C6429A50B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCA0188-6EC8-478E-8949-7C6429A50B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0364E29F-A5CC-4586-BF15-C12923A7AB54}
+	EndGlobalSection
+EndGlobal
